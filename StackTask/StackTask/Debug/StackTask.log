@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\danyl\source\repos\StackTask\StackTask\Stack.h(18,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danyl\source\repos\StackTask\StackTask\Stack.h(17): message : while compiling class template member function 'void Stack<std::string>::printStack(void)'
+C:\Users\danyl\source\repos\StackTask\StackTask\Source.cpp(18): message : see reference to function template instantiation 'void Stack<std::string>::printStack(void)' being compiled
+C:\Users\danyl\source\repos\StackTask\StackTask\Source.cpp(14): message : see reference to class template instantiation 'Stack<std::string>' being compiled
+  StackTask.vcxproj -> C:\Users\danyl\source\repos\StackTask\Debug\StackTask.exe

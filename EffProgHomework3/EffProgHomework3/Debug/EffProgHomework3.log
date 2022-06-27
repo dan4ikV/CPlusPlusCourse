@@ -1,0 +1,2 @@
+﻿  EffProgHomework3.cpp
+C:\Users\danyl\source\repos\EffProgHomework3\EffProgHomework3\EffProgHomework3.cpp(126,12): error C2676: binary '--': 'CTable' does not define this operator or a conversion to a type acceptable to the predefined operator
